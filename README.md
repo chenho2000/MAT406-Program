@@ -11,13 +11,18 @@ The program is pretty simple to use. There will be two text boxes. The upper one
 <img src="./rdm/1.png"/>
 <br/>
 
-Enter the matrix in the upper text box
-Separate the numbers by 1 space
-Each row needs to be put into a new line
-Click the button "Remove Dominated Strategies"
-The solution with the process will appear in the lower text box.
+1. Enter the matrix in the upper text box <br/>
+2. Separate the numbers by 1 space <br/>
+3. Each row needs to be put into a new line <br/>
+4. Click the button "Remove Dominated Strategies" <br/>
+5. The solution with the process will appear in the lower text box. <br/>
 
-And example will be:
+An example could be:
 <br/>
 <img src="./rdm/2.png"/>
+<br/>
+
+## Still thinking about how to remove strategies dominated by mixture of other strategies
+<br/>
+<img src="./rdm/3.png"/>
 <br/>
