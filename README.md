@@ -2,7 +2,9 @@
 A computer program that takes as an input a matrix (of a  zero-sum game) of arbitrary size and gives as an output the reduction of this matrix once all domination by pure column and rows have been taken care of.
 
 ## GETTING STARTED
-You can either choose to run the python file "Program.py" (if you have python installed, NumPy and Tkinter libraries are required) or the "Program.exe" file in the dist folder.
+You can either choose to run the python file "Program.py" (if you have python installed, NumPy and Tkinter libraries are required) or the "Program.exe" file in the dist folder.<br/>
+
+Mac/Linux users will have to run the python file!<br/>
 
 ## How to use the program
 The program is pretty simple to use. There will be two text boxes. The upper one is for you to enter the matrix, the lower one is for outputs (reduction process)
