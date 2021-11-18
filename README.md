@@ -13,7 +13,7 @@ The program is pretty simple to use. There will be two text boxes. The upper one
 <img src="./rdm/1.png"/>
 <br/>
 
-1. Enter the matrix in the upper text box <br/>
+1. Enter the matrix in the upper text box (make sure to type your number into the text box) <br/>
 2. Separate the numbers by 1 space <br/>
 3. Each row needs to be put into a new line <br/>
 4. Click the button "Remove Dominated Strategies" <br/>
