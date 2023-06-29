@@ -23,8 +23,3 @@ An example could be:
 <br/>
 <img src="./rdm/2.png"/>
 <br/>
-
-## Still thinking about how to remove strategies dominated by mixture of other strategies
-<br/>
-<img src="./rdm/3.png"/>
-<br/>
